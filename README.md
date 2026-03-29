@@ -16,13 +16,5 @@ I built this project at **16 years old** to practice my Python fundamentals. It'
 
 ---
 *Self-taught project.*
-Utilisez le code avec précaution.
-
-Why this is good:
-It highlights your skills: You aren't just saying "I made an ATM." You are saying "I know how to handle errors and validate data."
-It’s professional: It shows you care about the "user experience" (preventing crashes).
-Once you save this in your README.md file, your GitHub page will look like a real developer's portfolio!
-Do you want to know how to add a License (like the MIT License) to tell people they are allowed to use your code?
-
 
 
